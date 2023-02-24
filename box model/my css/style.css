@@ -1,0 +1,11 @@
+.lorem{
+    border: 2px dotted yellowgreen;
+    margin-top: 10px;
+    padding: 50px;
+}
+/* margin can be top,right,bottom ,left */
+
+.click-btn{
+    background-color: blueviolet;
+}
+
